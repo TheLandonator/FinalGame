@@ -127,7 +127,7 @@ def meadow_path():
         meadow_path()
 
 def sky_path():
-    print("\nYou look up and see a giant Eagle circling overhead. It lands and offers you a ride, but it looks a bit shaky. The eagle might be a little sick, but you would easily be able to se your house up high if it goes well.")
+    print("\nYou look up and see a giant Eagle circling overhead. It lands and offers you a ride, but it looks a bit shaky. The eagle might be a little sick, but you would easily be able to see your house up high if it goes well.")
     print("1. Hop on its back and fly toward the horizon")
     print("2. Ask the Eagle to just drop you off at the nearest cliff")
     choice = input("> ")
